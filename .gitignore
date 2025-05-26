@@ -1,0 +1,6 @@
+.env
+*.txt
+*.json
+backend/services/inference.py
+backend/memory/
+backend/challenges/ 

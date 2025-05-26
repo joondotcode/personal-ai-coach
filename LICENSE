@@ -1,0 +1,37 @@
+# Personal AI Coach License (Based on MIT)
+
+Copyright (c) 2024 Joon Park
+
+---
+
+## 1. Allowed Uses (Non-Commercial Only)
+
+You may:
+- Use, fork, modify, and reference this repository for **personal, educational, portfolio, interview, and demo purposes**
+- Cite this project in **interviews, blog posts, presentations, or portfolio sites**, as long as:
+  - Clear **attribution is provided** to the original author, Joon Park
+  - A link back to the GitHub repository is included
+  - It is not presented as your original work or product
+
+---
+
+## 2. Forbidden Uses
+
+You may **not** use this codebase, structure, prompts, or any part of the design in:
+- Any **commercial** or **for-profit** application, system, or product
+- Any **production deployment**
+- Any project claiming authorship over this system's architecture or IP
+
+---
+
+## 3. Commercial Licensing Option
+
+To use this code commercially or in a production system, you must obtain **explicit written permission** from the author: [joondotcode@gmail.com](mailto:joondotcode@gmail.com)
+
+---
+
+## 4. Disclaimer
+
+This software is provided "as is", without warranty of any kind. No guarantee of correctness, security, or LLM behavior is made. The author is not responsible for any misuse or misrepresentation.
+
+--- 
